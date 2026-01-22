@@ -1,4 +1,4 @@
-# Snapdragon Studios
+# Snapdragon Game Studios
 
 ![Snapdragon Game Studios Splash](../img/splash.png)
 
